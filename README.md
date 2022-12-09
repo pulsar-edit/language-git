@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # Git editing support in Atom
 [![macOS Build Status](https://travis-ci.org/atom/language-git.svg?branch=master)](https://travis-ci.org/atom/language-git)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/481319gyrr1feo8b/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-git/branch/master)
